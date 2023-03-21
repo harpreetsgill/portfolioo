@@ -107,7 +107,7 @@ footer a {
   .work {
     flex-direction: column;
   }
-  .work {
+  .work:first-child {
     width: 100%;
   }
   .work:nth-child(2) {
