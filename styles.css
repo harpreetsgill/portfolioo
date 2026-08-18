@@ -58,7 +58,8 @@ header .contact a {
 }
 .section-label span {
   margin-left: 6px;
-  opacity: 0.6;
+  opacity: 0.45;
+  font-style: italic;
 }
 
 /* Featured project */
